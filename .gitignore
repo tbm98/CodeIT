@@ -17,3 +17,6 @@ $RECYCLE.BIN/
 
 # Linux
 .directory
+
+# Compiled js files
+assets/js/
