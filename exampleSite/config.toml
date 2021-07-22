@@ -16,8 +16,8 @@ enableGitInfo = true
 # whether to use emoji code
 enableEmoji = true
 
-# Ignore get JSON errors.
-ignoreErrors = ["error-remote-getjson"]
+# Ignore build errors.
+ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [languages]
   [languages.en]
@@ -854,6 +854,15 @@ ignoreErrors = ["error-remote-getjson"]
         label = ""
         lightTheme = "github-light"
         darkTheme = "github-dark"
+      [params.page.comment.waline]
+        enable = false
+        serverURL = "https://xxx.vercel.app"
+        visitor = true
+        dark = 'auto'
+      [params.page.comment.twikoo]
+        enable = false
+        evnId = "https://xxx.vercel.app"
+
     # Third-party library config
     [params.page.library]
       [params.page.library.css]

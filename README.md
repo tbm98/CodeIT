@@ -100,6 +100,8 @@ I hope you will CodeIT 👩‍💻!
 - **Telegram comments** system supported by [Telegram Comments](https://comments.app/)
 - **Commento** comment system supported by [Commento](https://commento.io/)
 - **Utterances** comment system supported by [Utterances](https://utteranc.es/)
+- **Waline** comment system supported by [Waline](https://waline.js.org/)
+- **Twikoo** comment system supported by [Twikoo](https://twikoo.js.org/)
 
 ### :sparkles: Extended Features
 
@@ -274,7 +276,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://sosiristseng.github.io"><img src="https://avatars2.githubusercontent.com/u/40054455?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wen Wei Tseng</b></sub></a><br /><a href="https://github.com/sunt-programator/CodeIT/commits?author=sosiristseng" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jadmadi"><img src="https://avatars.githubusercontent.com/u/29486218?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Madi</b></sub></a><br /><a href="https://github.com/sunt-programator/CodeIT/commits?author=jadmadi" title="Code">💻</a> <a href="https://github.com/sunt-programator/CodeIT/issues?q=author%3Ajadmadi" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://tmendes.gitlab.io/28lbackpack"><img src="https://avatars.githubusercontent.com/u/16507629?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thiago Mendes</b></sub></a><br /><a href="https://github.com/sunt-programator/CodeIT/commits?author=trmendes" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.sheldonhull.com"><img src="https://avatars.githubusercontent.com/u/3526320?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sheldonhull</b></sub></a><br /><a href="https://github.com/sunt-programator/CodeIT/commits?author=sheldonhull" title="Code">💻</a> <a href="https://github.com/sunt-programator/CodeIT/issues?q=author%3Asheldonhull" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://aimoon.top"><img src="https://avatars.githubusercontent.com/u/61509470?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yasin</b></sub></a><br /><a href="https://github.com/sunt-programator/CodeIT/issues?q=author%3Aaiyasin" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://www.jesustorres.es/"><img src="https://avatars.githubusercontent.com/u/266452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jesús Torres</b></sub></a><br /><a href="https://github.com/sunt-programator/CodeIT/commits?author=aplatanado" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ktw717"><img src="https://avatars.githubusercontent.com/u/19327709?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Karl Webster</b></sub></a><br /><a href="https://github.com/sunt-programator/CodeIT/commits?author=ktw717" title="Code">💻</a> <a href="https://github.com/sunt-programator/CodeIT/commits?author=ktw717" title="Documentation">📖</a></td>
   </tr>
 </table>
 
