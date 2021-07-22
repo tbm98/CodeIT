@@ -25,7 +25,7 @@
     "lint-staged": "^10.5.4",
     "markdownlint": "^0.23.1",
     "minimist": "^1.2.5",
-    "prettier": "2.2.1",
+    "prettier": "^2.3.2",
     "segmentit": "^2.0.3",
     "standard-version": "^9.3.0",
     "stylelint": "^13.12.0",
@@ -34,7 +34,6 @@
     "stylelint-scss": "^3.19.0"
   },
   "scripts": {
-    "preinstall": "npx npm-force-resolutions",
     "babel": "npx babel src/js --out-file assets/js/theme.min.js --source-maps",
     "build": "npm run babel && hugo -v --source=exampleSite --themesDir ../.. --gc",
     "build-lunr-segmentit": "browserify src/lib/lunr.segmentit.js -o assets/lib/lunr/lunr.segmentit.js -t babelify --presets @babel/preset-env --presets minify",
@@ -47,9 +46,6 @@
     "release:minor": "standard-version -s --release-as minor",
     "release:patch": "standard-version -s --release-as patch",
     "release:major": "standard-version -s --release-as major"
-  },
-  "resolutions": {
-    "minimist": "^1.2.5"
   },
   "repository": {
     "type": "git",
